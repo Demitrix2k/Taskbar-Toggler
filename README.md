@@ -1,4 +1,4 @@
-# ToggleTaskbar
+# Taskbar Toggler
 Toggles the "Automatically hide the taskbar" setting and optionally hides it completely.
 
 ## Usage
